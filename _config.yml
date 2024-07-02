@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Justin Chih-Yao Chen"
+title                    : "Justin's Homepage"
 title_separator          : " | "
 name                     : &name "Your Name"
 description              : &description "Hi! I am Justin, and this is my personal website."
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Justin"
+  name             : "Justin Chih-Yao Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at UNC-NLP. Interested in NLP and LLM Reasoning"
   location         : "Chapel Hill, NC"
-  employer         : "UNC Chapel Hill"
+  employer         : # URL
   uri              : # URL
   email            : "cychen@cs.unc.edu" 
 
@@ -34,16 +34,16 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ODoG9isAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dinobby"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
