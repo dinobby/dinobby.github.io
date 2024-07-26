@@ -11,7 +11,7 @@ Hi! Thanks for stopping by. I am a second-year Ph.D. student at UNC Chapel Hill,
 
 # Recent News
 - Jul 2024: Check out [System-1.x](https://arxiv.org/abs/2407.14414), our new preprint on arxiv!
-- Jun 2024: Research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/).
+- Jun 2024: I am joining [Google Cloud AI](https://research.google/teams/cloud-ai/) as a Student Researcher this summer!
 - May 2024: [ReConcile](https://arxiv.org/pdf/2309.13007) is accepted to ACL 2024.
 - May 2024: [MAGDi](https://arxiv.org/abs/2402.01620) is accepted to ICML 2024.
 - Feb 2024:	Check out [MAGDi](https://arxiv.org/abs/2402.01620), our new preprint on arxiv!
