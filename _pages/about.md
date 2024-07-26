@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research interests lie generally in Natural Language Processing, LLM Reasoning, Representation Learning, and the incorporation of NLP and Knowledge Graphs. Prior to my Ph.D. journey, I earned my master's degree from the Data Science Program at National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
+Hi! Thanks for stopping by. I am a second-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research interests lie generally in Natural Language Processing, LLM Reasoning, Representation Learning, and the incorporation of NLP and Knowledge Graphs. Prior to my Ph.D. journey, I earned my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
+- Jul 2024: Check out [System-1.x](https://arxiv.org/abs/2407.14414), our new preprint on arxiv!
 - Jun 2024: Research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/).
 - May 2024: [ReConcile](https://arxiv.org/pdf/2309.13007) is accepted to ACL 2024.
 - May 2024: [MAGDi](https://arxiv.org/abs/2402.01620) is accepted to ICML 2024.
