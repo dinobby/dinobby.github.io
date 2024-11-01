@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+  <div class="wordwrap">You can also find my latest publications on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
 {% include base_path %}
+
 * **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
-**Justin Chih-Yao Chen**, Archiki Prasad, Swarnadeep Saha, Elias Stengel-eskin and Mohit Bansal
+**Justin Chih-Yao Chen**, Archiki Prasad, Swarnadeep Saha, Elias Stengel-eskin and Mohit Bansal\
 **Arxiv Preprint** 2024 [[paper](https://arxiv.org/abs/2409.12147)] [[code](https://github.com/dinobby/MAgICoRE)] [Long]
   
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
