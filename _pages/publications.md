@@ -10,14 +10,17 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-* **MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**  
-**Justin Chih-Yao Chen**\*, Swarnadeep Saha\*, Elias Stengel-Eskin, Mohit Bansal  
-**ICML** 2024 [[paper](https://arxiv.org/abs/2402.01620)] [[code](https://github.com/dinobby/MAGDi)] [Long]  
-
+* **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
+**Justin Chih-Yao Chen**, Archiki Prasad, Swarnadeep Saha, Elias Stengel-eskin and Mohit Bansal
+**Arxiv Preprint** 2024 [[paper](https://arxiv.org/abs/2409.12147)] [[code](https://github.com/dinobby/MAgICoRE)] [Long]
+  
 * **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs**  
 **Justin Chih-Yao Chen**, Swarnadeep Saha, and Mohit Bansal   
 **ACL** 2024 [[paper](https://arxiv.org/abs/2309.13007)] [[code](https://github.com/dinobby/ReConcile)] [Long]
+  
+* **MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**  
+**Justin Chih-Yao Chen**\*, Swarnadeep Saha\*, Elias Stengel-Eskin, Mohit Bansal  
+**ICML** 2024 [[paper](https://arxiv.org/abs/2402.01620)] [[code](https://github.com/dinobby/MAGDi)] [Long]  
 
 * **Dual Graph Networks with Synthetic Oversampling for Imbalanced Rumor Detection on Social Media**  
 Yen-Wen Lu, **Chih-Yao Chen**, and Cheng-Te Li   
