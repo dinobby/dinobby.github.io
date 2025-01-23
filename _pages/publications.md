@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 * **Reverse Thinking Makes LLMs Stronger Reasoners**  
 **Justin Chih-Yao Chen**, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister\
-**Arxiv Preprint** 2024 [[paper]([https://arxiv.org/abs/2409.12147](https://arxiv.org/abs/2411.19865))] [Long]
+**NAACL** 2025 [[paper]([https://arxiv.org/abs/2409.12147](https://arxiv.org/abs/2411.19865))] [Long]
   
 * **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
 **Justin Chih-Yao Chen**, Archiki Prasad, Swarnadeep Saha, Elias Stengel-eskin and Mohit Bansal\
