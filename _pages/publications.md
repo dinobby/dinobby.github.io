@@ -12,11 +12,15 @@ author_profile: true
 {% include base_path %}
 * **Reverse Thinking Makes LLMs Stronger Reasoners**  
 **Justin Chih-Yao Chen**, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister\
-**NAACL** 2025 [[paper]([https://arxiv.org/abs/2409.12147](https://arxiv.org/abs/2411.19865))] [[code](https://github.com/google-research/google-research/tree/master/RevThink)] [Long]
+**NAACL** 2025 [[paper](https://arxiv.org/abs/2409.12147)] [[code](https://github.com/google-research/google-research/tree/master/RevThink)] [Long]
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 Swarnadeep Saha, Archiki Prasad, **Justin Chih-Yao Chen**, Peter Hase, Elias Stengel-Eskin, Mohit Bansal\
 **ICLR** 2025 [[paper](https://arxiv.org/abs/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)] [Long]
+
+* **Learning to Generate Unit Tests for Automated Debugging**  
+Archiki Prasad, Elias Stengel-Eskin, **Justin Chih-Yao Chen**, Zaid Khan, Mohit Bansal\
+**Arxiv Preprint** 2025 [[paper](https://arxiv.org/abs/2502.01619)] [[code](https://github.com/archiki/UTGenDebug)] [Long]
 
 * **MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**  
 **Justin Chih-Yao Chen**, Archiki Prasad, Swarnadeep Saha, Elias Stengel-eskin and Mohit Bansal\
