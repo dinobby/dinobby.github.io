@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 * **Reverse Thinking Makes LLMs Stronger Reasoners**  
 **Justin Chih-Yao Chen**, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister\
-**NAACL** 2025 [[paper](https://arxiv.org/abs/2409.12147)] [[code](https://github.com/google-research/google-research/tree/master/RevThink)] [Long]
+**NAACL** 2025 [[paper](https://arxiv.org/abs/2411.19865)] [[code](https://github.com/google-research/google-research/tree/master/RevThink)] [Long]
 
 * **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 Swarnadeep Saha, Archiki Prasad, **Justin Chih-Yao Chen**, Peter Hase, Elias Stengel-Eskin, Mohit Bansal\
