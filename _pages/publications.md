@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**  
+**Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
+**Arxiv Preprint** 2025 [[paper](https://arxiv.org/abs/2503.05641)] [[code](https://github.com/dinobby/Symbolic-MoE/)] [[Project Page](https://symbolic-moe.github.io/)] [Long]
+
 * **Reverse Thinking Makes LLMs Stronger Reasoners**  
 **Justin Chih-Yao Chen**, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister\
 **NAACL** 2025 [[paper](https://arxiv.org/abs/2411.19865)] [[code](https://github.com/google-research/google-research/tree/master/RevThink)] [Long]
