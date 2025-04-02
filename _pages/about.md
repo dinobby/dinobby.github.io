@@ -10,6 +10,8 @@ redirect_from:
 Hi! I am a second-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research interests lie in Natural Language Processing, particularly LLM Reasoning, LLMs as agents, and the incorporation of graphs. I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
+- Mar 2025: I will be giving a talk on LLM reasoning with reverse thinking at Google DeepMind.
+- Mar 2025: Check out [Symbolic-MoE](https://arxiv.org/abs/2503.05641), our new preprint on arxiv!
 - Jan 2025: [RevThink](https://arxiv.org/abs/2411.19865) is accepted to NAACL 2025.
 - Nov 2024: Check out [RevThink](https://arxiv.org/abs/2411.19865), our new preprint on arxiv!
 - Sep 2024: Check out [MAgICoRE](https://arxiv.org/abs/2409.12147), our new preprint on arxiv!
