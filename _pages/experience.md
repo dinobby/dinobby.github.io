@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # Work Experience
+
+* **Research Intern, [Salesforce AI Research](https://www.salesforceairesearch.com/)** (May. 2025 - Aug. 2025)
+    * Advisors: [Jason Wu](https://jasonwu0731.github.io/), [Prafulla Kumar Choubey](https://scholar.google.com/citations?user=k7aMOCsAAAAJ&hl=zh-CN) and [Becky Xiangyu Peng](https://xiangyu-peng.github.io/)
 * **Student Researcher, [Google Cloud AI Research](https://research.google/teams/cloud-ai/)** (Jun. 2024 - Sep. 2024)
     * Advisors: [Chen-Yu Lee](https://research.google/people/chen-yu-lee/) and [Zifeng Wang](https://research.google/people/zifeng-wang/)
 * **Research Assistant, [MURGe Lab](https://murgelab.cs.unc.edu/)** (2023 - Present)
