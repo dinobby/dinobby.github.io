@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Nudging the Boundaries of LLM Reasoning**  
+**Justin Chih-Yao Chen**, Becky Xiangyu Peng, Prafulla Kumar Choubey, Kung-Hsiang Huang, Jiaxin Zhang, Mohit Bansal, Chien-Sheng Wu\
+**Arxiv Preprint** 2025 [[paper](https://arxiv.org/abs/2509.25666)] [Long]
+
 * **Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**  
 **Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
 **Arxiv Preprint** 2025 [[paper](https://arxiv.org/abs/2503.05641)] [[code](https://github.com/dinobby/Symbolic-MoE/)] [[project page](https://symbolic-moe.github.io/)] [Long]
