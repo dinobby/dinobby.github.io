@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 * **Nudging the Boundaries of LLM Reasoning**  
 **Justin Chih-Yao Chen**, Becky Xiangyu Peng, Prafulla Kumar Choubey, Kung-Hsiang Huang, Jiaxin Zhang, Mohit Bansal, Chien-Sheng Wu\
-**Arxiv Preprint** 2025 [[paper](https://arxiv.org/abs/2509.25666)] [Long]
+**ICLR** 2026 [[paper](https://arxiv.org/abs/2509.25666)] [Long]
 
 * **Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**  
 **Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
