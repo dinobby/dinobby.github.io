@@ -10,9 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems**  
+**Justin Chih-Yao Chen**, Archiki Prasad, Zaid Khan, Joykirat Singh, Runchu Tian, Elias Stengel-Eskin, Mohit Bansal\
+**Arxiv Preprint** 2026 [[paper](https://arxiv.org/abs/2604.04767)] [[code](https://github.com/dinobby/Cog-DRIFT)] [Long]
+  
 * **Nudging the Boundaries of LLM Reasoning**  
 **Justin Chih-Yao Chen**, Becky Xiangyu Peng, Prafulla Kumar Choubey, Kung-Hsiang Huang, Jiaxin Zhang, Mohit Bansal, Chien-Sheng Wu\
-**ICLR** 2026 [[paper](https://arxiv.org/abs/2509.25666)] [Long]
+**ICLR** 2026 [[paper](https://arxiv.org/abs/2509.25666)] [[code](https://github.com/SalesforceAIResearch/NuRL)] [Long]
 
 * **Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**  
 **Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
