@@ -10,6 +10,8 @@ redirect_from:
 Hi! I am a third-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research interests lie in Natural Language Processing, particularly LLM Reasoning, LLMs as agents, and the incorporation of graphs. I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
+- Apr 2026: I am joining [Microsoft Copilot Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
+- Mar 2026: Check out [Cog-DRIFT](https://arxiv.org/abs/2604.04767), our new preprint on arxiv!
 - Jan 2026: [NuRL](https://arxiv.org/abs/2509.25666) is accepted to ICLR 2026.
 - Sep 2025: Check out [NuRL](https://arxiv.org/abs/2509.25666), our new preprint on arxiv!
 - Aug 2025: [MAgICoRE](https://arxiv.org/abs/2409.12147) is accepted to EMNLP 2025.
