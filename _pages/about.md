@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research interests lie in Natural Language Processing, particularly LLM Reasoning, LLMs as agents, and the incorporation of graphs. I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
+Hi! I am a third-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research targets enabling effective exploration for improved LLM reasoning. By structuring interaction (across agents) and adapting human cognitive behavior (within agents), my work aims to improve exploration, self-correction, and generalization, making reasoning more efficient, adaptive, and less dependent on heavy supervision.
+I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
-- Apr 2026: I am joining [Microsoft Research - Copilot Tuning](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
+- May 2026: [Skill-MoE](https://skill-moe.github.io/) is accepted to ICML 2026.
+- Apr 2026: I am joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
 - Mar 2026: Check out [Cog-DRIFT](https://arxiv.org/abs/2604.04767), our new preprint on arxiv!
 - Jan 2026: [NuRL](https://arxiv.org/abs/2509.25666) is accepted to ICLR 2026.
 - Sep 2025: Check out [NuRL](https://arxiv.org/abs/2509.25666), our new preprint on arxiv!
@@ -18,7 +20,7 @@ Hi! I am a third-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit 
 - May 2025: I am joining [Salesforce AI Research](https://www.salesforceairesearch.com/) as a research intern this summer!
 - Apr 2025: Presented [Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865) at [MPI+UCLA](https://www.mis.mpg.de/events/series/math-machine-learning-seminar-mpi-mis-ucla).
 - Mar 2025: Presented [Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865) at Google DeepMind.
-- Mar 2025: Check out [Symbolic-MoE](https://arxiv.org/abs/2503.05641), our new preprint on arxiv!
+- Mar 2025: Check out [Skill-MoE](https://skill-moe.github.io/), our new preprint on arxiv!
 - Jan 2025: [RevThink](https://arxiv.org/abs/2411.19865) is accepted to NAACL 2025.
 - Nov 2024: Check out [RevThink](https://arxiv.org/abs/2411.19865), our new preprint on arxiv!
 - Sep 2024: Check out [MAgICoRE](https://arxiv.org/abs/2409.12147), our new preprint on arxiv!
