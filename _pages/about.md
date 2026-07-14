@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research targets enabling effective exploration for improved LLM reasoning. By structuring interaction (across agents) and adapting human cognitive behavior (within agents), my work aims to improve exploration, self-correction, and generalization, making reasoning more efficient, adaptive, and less dependent on heavy supervision.
+Hi! I am a fourth-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. By structuring interaction (across LLM agents) and adapting human cognitive behavior (within LLM agents), my work aims to improve exploration, self-correction, and generalization, making reasoning more efficient, adaptive, and less dependent on supervision.
 I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
