@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **Skill-MoE: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills**  
+* **Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills**  
 **Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
 **ICML** 2026 [[paper](https://arxiv.org/abs/2503.05641)] [[code](https://github.com/dinobby/Symbolic-MoE/)] [[project page](https://symbolic-moe.github.io/)] [Long]
   
