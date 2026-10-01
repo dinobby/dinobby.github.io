@@ -10,7 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+* **MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems**  
+**Hyunji Lee***, **Justin Chih-Yao Chen***, Joykirat Singh, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal\
+**NeurIPS** 2026 [[paper](https://arxiv.org/abs/2605.18565)] [[code](https://github.com/amy-hyunji/MINTEval)] [Long]
+  
 * **Skill-Based Mixture-of-Experts: Adaptive Routing for Heterogeneous Reasoning via Inferred Skills**  
 **Justin Chih-Yao Chen**, Sukwon Yun, Elias Stengel-Eskin, Tianlong Chen, Mohit Bansal\
 **ICML** 2026 [[paper](https://arxiv.org/abs/2503.05641)] [[code](https://github.com/dinobby/Symbolic-MoE/)] [[project page](https://symbolic-moe.github.io/)] [Long]
