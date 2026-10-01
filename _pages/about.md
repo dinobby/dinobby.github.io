@@ -11,6 +11,7 @@ Hi! I am a fourth-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit
 I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
+- Sep 2026: [MINTEval(https://arxiv.org/abs/2605.18565)] is accepted to NeurIPS 2026.
 - May 2026: [Skill-MoE](https://skill-moe.github.io/) is accepted to ICML 2026.
 - Apr 2026: I am joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
 - Mar 2026: Check out [Cog-DRIFT](https://arxiv.org/abs/2604.04767), our new preprint on arxiv!
