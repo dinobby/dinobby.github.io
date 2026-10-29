@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Work Experience
-* **Research Intern, [Microsoft](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/people/)** (May. 2026 - Aug. 2026)
+* **Research Intern, [Microsoft Frontier Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/people/)** (May. 2026 - Aug. 2026)
     * Mentors: [Harsh Jhamtani](https://sites.google.com/view/harshjhamtani/home), [Gaurav Verma](https://gaurav22verma.github.io/) and [Benjamin Van Durme
 ](https://engineering.jhu.edu/faculty/benjamin-van-durme/)
 * **Research Intern, [Salesforce AI Research](https://www.salesforceairesearch.com/)** (May. 2025 - Aug. 2025)
