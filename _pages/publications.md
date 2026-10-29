@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+* **TeleTune: Evolving Agent Skills From Offline Telemetry**
+**Justin Chih-Yao Chen**, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mohit Bansal, Benjamin Van Durme, Harsh Jhamtani, Gaurav Verma\
+**Arxiv Preprint** 2026 [[paper](https://arxiv.org/abs/2610.05437)] [Long]
+
 * **MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems**  
 **Hyunji Lee***, **Justin Chih-Yao Chen***, Joykirat Singh, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal\
 **NeurIPS** 2026 [[paper](https://arxiv.org/abs/2605.18565)] [[code](https://github.com/amy-hyunji/MINTEval)] [Long]
