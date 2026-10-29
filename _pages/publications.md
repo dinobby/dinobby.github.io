@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* **TeleTune: Evolving Agent Skills From Offline Telemetry**
+* **TeleTune: Evolving Agent Skills From Offline Telemetry**  
 **Justin Chih-Yao Chen**, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mohit Bansal, Benjamin Van Durme, Harsh Jhamtani, Gaurav Verma\
 **Arxiv Preprint** 2026 [[paper](https://arxiv.org/abs/2610.05437)] [Long]
 
