@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. By structuring interaction (across LLM agents) and adapting human cognitive behavior (within LLM agents), my work aims to improve exploration, self-correction, and generalization, making reasoning more efficient, adaptive, and less dependent on supervision.
+Hi! I am a fourth-year Ph.D. student at UNC Chapel Hill, advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/){:target="\_blank"}. My research focuses on LLM reasoning and multi-agent collaboration. By structuring interaction (across LLM agents) and adapting human cognitive behavior (within LLM agents), my work aims to improve exploration, self-correction, and generalization, making reasoning more efficient, adaptive, and less dependent on supervision.
 I received my master's degree from National Taiwan University, advised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/index_zh.html){:target="\_blank"} and [Prof. Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php){:target="\_blank"}. When I was an undergraduate, I had the pleasure of working closely with [Prof. Cheng-Te Li](https://sites.google.com/view/chengteli/){:target="\_blank"}. 
 
 # Recent News
+- Oct 2026: Check out [TeleTune](https://arxiv.org/abs/2610.05437), my Microsoft internship project on arxiv!
 - Sep 2026: [MINTEval](https://arxiv.org/abs/2605.18565) is accepted to NeurIPS 2026.
 - May 2026: [Skill-MoE](https://skill-moe.github.io/) is accepted to ICML 2026.
 - Apr 2026: I am joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
