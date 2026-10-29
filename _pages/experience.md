@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 # Work Experience
-
+* **Research Intern, [Microsoft](Frontier Tuning Research and Applied Science)** (May. 2026 - Aug. 2026)
+    * Mentors: [Harsh Jhamtani](https://sites.google.com/view/harshjhamtani/home), [Gaurav Verma](https://gaurav22verma.github.io/) and [Benjamin Van Durme
+](https://engineering.jhu.edu/faculty/benjamin-van-durme/)
 * **Research Intern, [Salesforce AI Research](https://www.salesforceairesearch.com/)** (May. 2025 - Aug. 2025)
     * Mentors: [Jason Wu](https://jasonwu0731.github.io/), [Becky Xiangyu Peng](https://xiangyu-peng.github.io/) and [Prafulla Kumar Choubey](https://scholar.google.com/citations?user=k7aMOCsAAAAJ)
 * **Student Researcher, [Google Cloud AI Research](https://research.google/teams/cloud-ai/)** (Jun. 2024 - Sep. 2024)
