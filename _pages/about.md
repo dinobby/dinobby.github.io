@@ -14,7 +14,7 @@ I received my master's degree from National Taiwan University, advised by [Dr. L
 - Oct 2026: Check out [TeleTune](https://arxiv.org/abs/2610.05437), my Microsoft internship project on arxiv!
 - Sep 2026: [MINTEval](https://arxiv.org/abs/2605.18565) is accepted to NeurIPS 2026.
 - May 2026: [Skill-MoE](https://skill-moe.github.io/) is accepted to ICML 2026.
-- Apr 2026: I am joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
+- Apr 2026: I am joining [Microsoft](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a research intern this summer!
 - Mar 2026: Check out [Cog-DRIFT](https://arxiv.org/abs/2604.04767), our new preprint on arxiv!
 - Jan 2026: [NuRL](https://arxiv.org/abs/2509.25666) is accepted to ICLR 2026.
 - Sep 2025: Check out [NuRL](https://arxiv.org/abs/2509.25666), our new preprint on arxiv!
